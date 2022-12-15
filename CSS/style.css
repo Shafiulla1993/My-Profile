@@ -1,6 +1,7 @@
 body {
   background-color: #FFE5F1;
 }
+img { border-radius:100% }
 table {
   column-gap: 5cm; border-spacing: 10px;
 }
